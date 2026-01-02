@@ -1,0 +1,24 @@
+====== DATA QUALITY REPORT ======
+
+1. Records processed per file:
+  customers: 25
+  products: 20
+  sales: 35
+
+2. Duplicates removed:
+  customers: 0
+  products: 0
+  sales: 0
+
+3. Missing values handled:
+  customers: 0
+  products: 0
+  sales: 0
+
+4. Records loaded successfully:
+  customers: 25
+  products: 20
+  orders: 35
+  order_items: 35
+
+====== END OF REPORT ======

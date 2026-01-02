@@ -1,0 +1,3 @@
+## Task 3: Star Schema Design and Analytical Architecture
+
+In Task 3, a star schema was designed to support analytical queries and business reporting for FlexiMart. Fact and dimension tables were identified, including a sales fact table and dimensions for customers, products, and time. The design focused on optimizing query performance and simplifying business intelligence queries. This task demonstrated how transactional data from the operational database can be restructured into an analytical model suitable for reporting and decision-making.

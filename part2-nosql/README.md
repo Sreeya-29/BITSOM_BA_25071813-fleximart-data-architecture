@@ -1,0 +1,3 @@
+## Task 2: NoSQL Justification and MongoDB Implementation
+
+Task 2 focused on evaluating and justifying the use of a NoSQL database for handling flexible and semi-structured data. MongoDB was selected to store product-related information with varying attributes and nested structures that are difficult to manage in a fixed relational schema. Database operations such as inserting, updating, and querying documents were implemented using MongoDB scripts executed through mongosh. This task demonstrated an understanding of when NoSQL databases are more suitable than relational databases and how they support schema flexibility and scalability.

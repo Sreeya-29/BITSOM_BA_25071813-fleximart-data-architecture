@@ -1,0 +1,3 @@
+## Task 1: Database Design and ETL Pipeline
+
+In Task 1, a relational database schema was designed for the FlexiMart retail system using PostgreSQL. The schema included tables for customers, products, orders, order items, and supporting dimension tables, with surrogate primary keys and appropriate constraints to ensure data integrity. A Python-based ETL pipeline was implemented using Pandas and SQLAlchemy to extract raw CSV data, clean and transform it, handle missing values and duplicates, and load the data into the database. The ETL process  was performed in etl_pipeline.py and also generated a data quality report summarizing records processed, duplicates removed, missing values handled, and records successfully loaded.
